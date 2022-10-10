@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham-Jani
 - 👀 I’m interested in Learning Programing Languages (Just a beginner)
-- 🌱 I’m currently learning C,Python,C++.
-- 💞️ I’m looking to collaborate on nowhere
+- 🌱 I’m currently learning and making projects on Django Python 
+- 💞️ mail to collabrate
 - 📫 Reach me at my gmail janishubham58@gmail.com
 
 <!---
