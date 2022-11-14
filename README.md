@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Jani
-- 👀 I’m interested in Learning Programing Languages (Just a beginner)
-- 🌱 I’m currently learning and making projects on Django Python 
+- 👀 Java, Python.
+- 🌱 Learning Tailwind css(Daisy ui), Django.
 - 💞️ mail to collabrate
 - 📫 Reach me at my gmail janishubham58@gmail.com
 
