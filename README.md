@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Jani
-- 👀 Java, Python.
-- 🌱 Learning Tailwind css(Daisy ui), Django.
+- 👀 Django, Django Rest Framework, PyQt6, JavaFx, Java Servlet, Database Design, Postgresql, 
+- 🌱 Learning Computer Networks and Machine Learning Currently.
 - 💞️ mail to collabrate
 - 📫 Reach me at my gmail janishubham58@gmail.com
 
